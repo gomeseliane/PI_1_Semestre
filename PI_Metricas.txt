@@ -1,0 +1,56 @@
+Disciplinas do PI:
+- Desenvolvimento Web
+- Banco de Dados
+- Design Digital
+- Lógica de programação e algorítmos 
+- Engenharia de Software
+
+TEMA: PAZ, JUSTIÇA E INSTITUIÇÕES EFICAZES
+
+MOTIVAÇÃO: Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e constuir instituições eficazes, responsáveis e inclusivas em todos os níveis.
+
+
+Subdivisão do tema individual:
+
+Adriano: 16.9 - Até 2030, fornecer identidade legal para todos, incluindo o registro de nascimento.
+
+Denys: Reduzir substancialmente a corrupção e o suborno em todas as suas formas.
+
+Eliane: Reduzir significativamente todas as formas de violência e taxas de mortalidade relacionada em todos os lugares.
+
+Henrique: Promover o estado de direito, em nível nacional e internacional, e garantir a igualdade de acesso à justiça para todos.
+
+Igor: Acabar com o abuso, exploração, tráfico e todas as formas de violência e tortura contra crianças.
+
+Rafael: Desenvolver instituições eficazes, responsáveis e transparentes em todos os níveis.
+
+Samuel: Ficará responsável pela documentação e questões de planejamento do PI conforme conteúdo de Engenharia de Software.
+
+Victor: Até 2030, reduzir significamente os fluxos financeiros de armas ilegais e reforçar a recuperação e devolução de recursos roubados e combater todas as formas de crime organizado.
+
+
+Subdivisão do tema em dupla:
+
+Igor/Victor: Garantir a tomada de decisão responsiva, inclusiva, participativa e representativa em todos os níveis.
+
+Henrique/Denys: Assegurar o acesso público à informação e proteger as liberdades fundametais, em conformidade com a legislação nacional e os acordos internacionais.
+
+Samuel/Adriano: Samuel focará na atividade de engenharia de software, conforme supracitado acima. Adriano colabrará com as demandas dando apoio a Samuel.
+
+Eliane/Rafael: Promover e fazer cumprir as leis e políticas não disriminatórias para o desenvolvimento sustentável.
+
+*******************************************************************************************************************************
+
+METAS:
+
+LAYOUT/FRONT - TODOS
+BANCO DE DADOS - TODOS
+LÓGICA - Todos integrantes do grupo - APIOO --> IGOR
+
+DOCUMENTAÇÃO: Todos os membros do grupo devem documentar as especificações técnicas para homologação e desenvolvimento do projeto.
+
+DOCUMENTAÇÃO LINK --> https://1drv.ms/w/s!AutzLpjy0t8KgbgHA0T_E5TsRagIUQ?e=mkFf2d
+
+Visto - AEL
+Visto - Eliane
+
